@@ -1,3 +1,3 @@
-module http_graceful
+module github.com/achilsh/http-graceful
 
-go 1.24.1
+go 1.23.4
